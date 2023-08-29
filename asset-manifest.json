@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/navinwadbude.github.io/RTK-Query/static/css/main.8af4d156.chunk.css",
+    "main.js": "/navinwadbude.github.io/RTK-Query/static/js/main.20384b91.chunk.js",
+    "main.js.map": "/navinwadbude.github.io/RTK-Query/static/js/main.20384b91.chunk.js.map",
+    "runtime-main.js": "/navinwadbude.github.io/RTK-Query/static/js/runtime-main.0aac3d36.js",
+    "runtime-main.js.map": "/navinwadbude.github.io/RTK-Query/static/js/runtime-main.0aac3d36.js.map",
+    "static/js/2.60667a38.chunk.js": "/navinwadbude.github.io/RTK-Query/static/js/2.60667a38.chunk.js",
+    "static/js/2.60667a38.chunk.js.map": "/navinwadbude.github.io/RTK-Query/static/js/2.60667a38.chunk.js.map",
+    "index.html": "/navinwadbude.github.io/RTK-Query/index.html",
+    "static/css/main.8af4d156.chunk.css.map": "/navinwadbude.github.io/RTK-Query/static/css/main.8af4d156.chunk.css.map",
+    "static/js/2.60667a38.chunk.js.LICENSE.txt": "/navinwadbude.github.io/RTK-Query/static/js/2.60667a38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aac3d36.js",
+    "static/js/2.60667a38.chunk.js",
+    "static/css/main.8af4d156.chunk.css",
+    "static/js/main.20384b91.chunk.js"
+  ]
+}
